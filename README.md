@@ -3,9 +3,9 @@
 ## Introduction
 This is an analog function generator project which is capable of generating sine waves, square waves, triangular waves, and saw-tooth waves in the frequency range 20Hz to 20kHz. Which also has adjustable duty cycle functionality. Adjustable duty cycle functionality is also included.
 
--The project simulation is done using NI Multisim software.
--The enclosure design is done using Solidworks software. 
--The PCB layout is designed using Altium software.
+- The project simulation is done using NI Multisim software.
+- The enclosure design is done using Solidworks software. 
+- The PCB layout is designed using Altium software.
 
 
 
