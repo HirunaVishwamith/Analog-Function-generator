@@ -12,13 +12,13 @@ This is an analog function generator project which is capable of generating sine
 <br>
 
 ## Main consept
-<p align="center"><img src="https://user-images.githubusercontent.com/69134587/222908387-d2ff8171-847b-41e0-a88f-04b24c6b6beb.jpeg" width="400" height="400"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/69134587/222908387-d2ff8171-847b-41e0-a88f-04b24c6b6beb.jpeg"></p>
 
 <br>
 
 
 ## Enclosure
-<p align="center"><https://user-images.githubusercontent.com/69134587/222908629-c612d156-186b-4a8f-ac71-ada7625b579a.jpeg" width="400" height="400"></p>
+<p align="center"><https://user-images.githubusercontent.com/69134587/222908629-c612d156-186b-4a8f-ac71-ada7625b579a.jpeg" ></p>
 
 <br>
 
