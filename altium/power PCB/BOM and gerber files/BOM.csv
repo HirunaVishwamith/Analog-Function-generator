@@ -1,0 +1,7 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"Cap","Capacitor","C1, C2, C3, C4","RAD-0.3","Cap","4"
+"1N4007","DIODE GEN PURP 100V 200MA DO35","D1, D2, D3, D4","FP-017AG-MFG","CMP-07163-000046-1","4"
+"LM7812CT","IC REG LINEAR 12V 1A TO220-3","LM7812","FP-TO220B03-MFG","CMP-07128-000015-1","1"
+"LM7912CT","3-Terminal Negative Regulator, 3-pin TO-220","LM7912","NDE0003A","CMP-0062-02472-3","1"
+"","","OUT, TRNS","CUI_TBP01R2-508-03BE","TBP01R2-508-03BE","2"
