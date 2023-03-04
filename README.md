@@ -37,3 +37,14 @@ Sine wave                    |  Squar wave
 | <img src="https://user-images.githubusercontent.com/69134587/222910946-81abf36c-2078-4eaa-95e1-5678e74e6832.jpeg" width="400" height="300">
 
 <br>
+
+## Schemetic of the PCB
+<p align="center"><img src="https://user-images.githubusercontent.com/69134587/222913429-9739e19b-aacd-4891-8aaa-9bc86e4e41fc.jpg" ></p>
+
+<br>
+
+
+## PCB
+<p align="center"><img src="https://user-images.githubusercontent.com/69134587/222913437-c9a8e229-3cc9-4a8f-a2ff-adac9b28a964.jpg" ></p>
+
+<br>
