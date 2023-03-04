@@ -24,8 +24,16 @@ This is an analog function generator project which is capable of generating sine
 
 ## Results
 
-Sine wave                    |  Squar wave               |  Trianglar wave         |  Sawtooth wave        | Duty Cycle adjustments
-:-------------------------:|:-------------------------:| :-------------------------:|:-------------------------:|:-------------------------:|
-<img src="https://user-images.githubusercontent.com/69134587/222910203-84bddeb5-e7e9-4421-9822-f4e54db3e82d.jpeg" width="400" height="300"> | <img src="https://user-images.githubusercontent.com/69134587/222910049-7ce69c50-b5a0-4ab4-bd06-3192effcfb65.jpeg" width="400" height="300"> | <img src="https://user-images.githubusercontent.com/69134587/222910026-dea2d3c1-61f7-45c4-bea6-c91960f25ebc.jpeg" width="400" height="300"> | <img src="https://user-images.githubusercontent.com/69134587/222910811-99463169-4f9f-4f23-8bba-c9b1aea3a4fb.jpeg" width="400" height="300">  | <img src="https://user-images.githubusercontent.com/69134587/222910946-81abf36c-2078-4eaa-95e1-5678e74e6832.jpeg" width="400" height="300">
+Sine wave                    |  Squar wave               
+:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/69134587/222910203-84bddeb5-e7e9-4421-9822-f4e54db3e82d.jpeg" width="400" height="300"> | <img src="https://user-images.githubusercontent.com/69134587/222910049-7ce69c50-b5a0-4ab4-bd06-3192effcfb65.jpeg" width="400" height="300"> 
+
+|  Trianglar wave         |  Sawtooth wave        
+| :-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/69134587/222910026-dea2d3c1-61f7-45c4-bea6-c91960f25ebc.jpeg" width="400" height="300"> | <img src="https://user-images.githubusercontent.com/69134587/222910811-99463169-4f9f-4f23-8bba-c9b1aea3a4fb.jpeg" width="400" height="300">  
+
+| Duty Cycle adjustments
+|:-------------------------:
+| <img src="https://user-images.githubusercontent.com/69134587/222910946-81abf36c-2078-4eaa-95e1-5678e74e6832.jpeg" width="400" height="300">
 
 <br>
